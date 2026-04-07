@@ -110,6 +110,12 @@ export default function Header() {
             <a href="#" className="hover:text-orange-600">
               Bình Dương
             </a>
+            <Link href="/search" className="hover:text-orange-600">
+              Tìm kiếm nâng cao
+            </Link>
+            <Link href="/map" className="hover:text-orange-600">
+              Bản đồ
+            </Link>
             <a href="#" className="hover:text-orange-600">
               Bài Đăng
             </a>
